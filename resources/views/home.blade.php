@@ -61,10 +61,10 @@
                 <a class="nav-link" href="menu.html">Servis</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.html">About</a>
+                <a class="nav-link" href="about.html">About Us</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="book.html">About Us</a>
+                <a class="nav-link" href="book.html">Blog</a>
               </li>
             </ul>
             <div class="user_option">
@@ -238,16 +238,7 @@
                 <img src="{{asset('feane/images')}}/o1.jpg" alt="">
               </div>
               <div class="detail-box">
-                <h5>
-                  Tasty Thursdays
-                </h5>
-                <h6>
-                  <span>20%</span> Off
-                </h6>
-                <a href="">
-                  Order Now <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029" style="enable-background:new 0 0 456.029 456.029;" xml:space="preserve">
-                    <g>
-                      <g>
+               
                         <path d="M345.6,338.862c-29.184,0-53.248,23.552-53.248,53.248c0,29.184,23.552,53.248,53.248,53.248
                      c29.184,0,53.248-23.552,53.248-53.248C398.336,362.926,374.784,338.862,345.6,338.862z" />
                       </g>
@@ -308,7 +299,7 @@
               </div>
               <div class="detail-box">
                 <h5>
-                  Pizza Days
+                 Pizza Days
                 </h5>
                 <h6>
                   <span>15%</span> Off
