@@ -139,6 +139,40 @@
       </div>
     </header>
     <!-- end header section -->
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IB Digital</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="logo-section">
+            <div class="logo">
+                <div class="logo-icon">IB</div>
+                <div class="logo-text">
+                    <span class="main-text">Digital</span>
+                </div>
+            </div>
+            <p class="tagline">petik solusi digital</p>
+        </div>
+        <div class="profile-section">
+            <h3>PROFILE</h3>
+            <h1>IB Digital</h1>
+            <p>
+                IB Digital merupakan sebuah unit usaha yang bergerak di bidang teknologi informasi (IT).
+                Dengan didukung oleh sumber daya manusia yang profesional dan berpengalaman di bidangnya,
+                kami hadir untuk menjawab berbagai kebutuhan layanan IT dan memberikan pelayanan yang
+                terbaik untuk menjamin kepuasan klien.
+            </p>
+            <button class="about-button">About Us</button>
+        </div>
+    </div>
+</body>
+</html>
+
     <!-- slider section -->
     <section class="slider_section ">
       <div id="customCarousel1" class="carousel slide" data-ride="carousel">
