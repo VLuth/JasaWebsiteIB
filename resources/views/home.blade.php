@@ -44,7 +44,7 @@
         <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="index.html">
             <span>
-              Feane
+              IB Digital
             </span>
           </a>
 
@@ -58,13 +58,13 @@
                 <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="menu.html">Menu</a>
+                <a class="nav-link" href="menu.html">Servis</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="about.html">About</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="book.html">Book Table</a>
+                <a class="nav-link" href="book.html">About Us</a>
               </li>
             </ul>
             <div class="user_option">
@@ -181,7 +181,7 @@
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
-                        Order Now
+                        Order
                       </a>
                     </div>
                   </div>
@@ -204,7 +204,7 @@
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
-                        Kontak Us
+                        
                       </a>
                     </div>
                   </div>
