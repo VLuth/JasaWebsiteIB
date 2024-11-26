@@ -11,12 +11,12 @@
   <meta name="keywords" content="" />
   <meta name="description" content="" />
   <meta name="author" content="" />
-  <link rel="shortcut icon" href="{{ asset('assets/css/theme.css') }}" type="">
+  <link rel="shortcut icon" href="images/favicon.png" type="">
 
   <title> Feane </title>
 
   <!-- bootstrap core css -->
-  <link rel="stylesheet" type="text/css" href="{{asset('assets/css/feane.css')}}" />
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
 
   <!--owl slider stylesheet -->
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
@@ -229,7 +229,7 @@
           <div class="col-md-6  ">
             <div class="box ">
               <div class="img-box">
-                <img src="{{asset('assets/css/feane.css')}}""">
+                <img src="{{asset('assets/css/feane.css')}}">
               </div>
               <div class="detail-box">
                 <h5>
@@ -298,7 +298,7 @@
           <div class="col-md-6  ">
             <div class="box ">
               <div class="img-box">
-                <img src="{{asset('assets/css/feane.css')}}""">
+                <img src="{{asset('assets/css/feane.css')}}">
               </div>
               <div class="detail-box">
                 <h5>
@@ -395,7 +395,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{asset('assets/css/feane.css')}}""">
+                  <img src="{{asset('assets/css/feane.css')}}">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -471,7 +471,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{asset('assets/css/feane.css')}}""">
+                  <img src="{{asset('assets/css/feane.css')}}">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -547,7 +547,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{asset('assets/css/feane.css')}}""">
+                  <img src="{{asset('assets/css/feane.css')}}">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -623,9 +623,9 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{asset('assets/css/feane.css')}}""">
-                </div>
-                <div class="detail-box">
+                  <img src="{{asset('assets/css/feane.css')}}">                               
+                  <div class="detail-box">
+                  </div>
                   <h5>
                     Delicious Pasta
                   </h5>
@@ -699,7 +699,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{asset('assets/css/feane.css')}}""">
+                  <img src="{{asset('assets/css/feane.css')}}">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -775,7 +775,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{asset('assets/css/feane.css')}}""">
+                  <img src="{{asset('assets/css/feane.css')}}">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -851,7 +851,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{asset('assets/css/feane.css')}}""">
+                  <img src="{{asset('assets/css/feane.css')}}">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -927,8 +927,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{asset('assets/css/feane.css')}}""">
-                </div>
+                  <img src="{{asset('assets/css/feane.css')}}"                </div>
                 <div class="detail-box">
                   <h5>
                     Tasty Burger
@@ -1003,7 +1002,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{asset('assets/css/feane.css')}}""">
+                  <img src="{{asset('assets/css/feane.css')}}">
                 </div>
                 <div class="detail-box">
                   <h5>
