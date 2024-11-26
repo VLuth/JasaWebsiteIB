@@ -16,12 +16,12 @@
   <title> Feane </title>
 
   <!-- bootstrap core css -->
-  <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/feane.css') }}" />
+  <link rel="stylesheet" type="text/css" href="{{asset('assets/css/feane.css')}}" />
 
   <!--owl slider stylesheet -->
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" />
   <!-- nice select  -->
-  <link rel="stylesheet" href="{{ asset('assets/css/feane.css') }}" integrity="sha512-CruCP+TD3yXzlvvijET8wV5WxxEh5H8P4cmz0RFbKK6FlZ2sYl3AEsKlLPHbniXKSrDdFewhbmBK5skbdsASbQ==" crossorigin="anonymous" />
+  <link rel="stylesheet" href="{{asset('assets/css/feane.css')}}" integrity="sha512-CruCP+TD3yXzlvvijET8wV5WxxEh5H8P4cmz0RFbKK6FlZ2sYl3AEsKlLPHbniXKSrDdFewhbmBK5skbdsASbQ==" crossorigin="anonymous" />
   <!-- font awesome style -->
   <link href="css/font-awesome.min.css" rel="stylesheet" />
 
@@ -36,7 +36,7 @@
 
   <div class="hero_area">
     <div class="bg-box">
-      <img src="{{ asset('assets/css/feane.css') }}" alt="">
+      <img src="{{asset('assets/css/feane.css')}}" alt="">
     </div>
     <!-- header section strats -->
     <header class="header_section">
@@ -229,7 +229,7 @@
           <div class="col-md-6  ">
             <div class="box ">
               <div class="img-box">
-                <img src="{{ asset('assets/css/feane.css') }}""">
+                <img src="{{asset('assets/css/feane.css')}}""">
               </div>
               <div class="detail-box">
                 <h5>
@@ -298,7 +298,7 @@
           <div class="col-md-6  ">
             <div class="box ">
               <div class="img-box">
-                <img src="{{ asset('assets/css/feane.css') }}""">
+                <img src="{{asset('assets/css/feane.css')}}""">
               </div>
               <div class="detail-box">
                 <h5>
@@ -395,7 +395,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{ asset('assets/css/feane.css') }}""">
+                  <img src="{{asset('assets/css/feane.css')}}""">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -471,7 +471,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{ asset('assets/css/feane.css') }}""">
+                  <img src="{{asset('assets/css/feane.css')}}""">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -547,7 +547,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{ asset('assets/css/feane.css') }}""">
+                  <img src="{{asset('assets/css/feane.css')}}""">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -623,7 +623,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{ asset('assets/css/feane.css') }}""">
+                  <img src="{{asset('assets/css/feane.css')}}""">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -699,7 +699,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{ asset('assets/css/feane.css') }}""">
+                  <img src="{{asset('assets/css/feane.css')}}""">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -775,7 +775,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{ asset('assets/css/feane.css') }}""">
+                  <img src="{{asset('assets/css/feane.css')}}""">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -851,7 +851,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{ asset('assets/css/feane.css') }}""">
+                  <img src="{{asset('assets/css/feane.css')}}""">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -927,7 +927,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{ asset('assets/css/feane.css') }}""">
+                  <img src="{{asset('assets/css/feane.css')}}""">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -1003,7 +1003,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{ asset('assets/css/feane.css') }}""">
+                  <img src="{{asset('assets/css/feane.css')}}""">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -1095,7 +1095,7 @@
       <div class="row">
         <div class="col-md-6 ">
           <div class="img-box">
-            <img src="{{ asset('assets/css/feane.css') }}"g" alt="">
+            <img src="{{asset('assets/css/feane.css')}}"g" alt="">
           </div>
         </div>
         <div class="col-md-6">
@@ -1208,7 +1208,7 @@
                 </p>
               </div>
               <div class="img-box">
-                <img src="{{ asset('assets/css/feane.css') }}" alt="" class="box-img">
+                <img src="{{asset('assets/css/feane.css')}}" alt="" class="box-img">
               </div>
             </div>
           </div>
@@ -1226,7 +1226,7 @@
                 </p>
               </div>
               <div class="img-box">
-                <img src="{{ asset('assets/css/feane.css') }}" alt="" class="box-img">
+                <img src="{{asset('assets/css/feane.css')}}" alt="" class="box-img">
               </div>
             </div>
           </div>
