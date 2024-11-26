@@ -229,7 +229,7 @@
           <div class="col-md-6  ">
             <div class="box ">
               <div class="img-box">
-                <img src="{{ asset('assets/images/logo.png') }}">
+                <img src="{{ asset('assets/images/favicion.png') }}">
               </div>
               <div class="detail-box">
                 <h5>
@@ -298,7 +298,7 @@
           <div class="col-md-6  ">
             <div class="box ">
               <div class="img-box">
-                <img src="{{asset('assets/css/feane')}}">
+                <img src="{{asset('assets/feane/images/f2.png')}}">
               </div>
               <div class="detail-box">
                 <h5>
