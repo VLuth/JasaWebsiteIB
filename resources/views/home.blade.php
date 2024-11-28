@@ -58,10 +58,10 @@
                 <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="{{asset('feane/menu.html')}}">SERVICE</a>
+                <a class="nav-link" href="{{asset('feane/service.html')}}">SERVICE</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="{{asset('feane/about.html')}}">ABOUT US</a>
+                <a class="nav-link" href="{{asset('feane/aboutus.html')}}">ABOUT US</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="{{asset('feane/book.html')}}">Book Table</a>
