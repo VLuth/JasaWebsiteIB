@@ -41,6 +41,7 @@ function myMap() {
         zoom: 18,
     };
     var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
+
 }
 
 // client section owl carousel
@@ -67,4 +68,5 @@ $(".client_owl-carousel").owlCarousel({
             items: 2
         }
     }
+
 });

@@ -11,9 +11,9 @@
   <meta name="keywords" content="" />
   <meta name="description" content="" />
   <meta name="author" content="" />
-  <link rel="shortcut icon" href="assets/images/favicon.png" type="">
+  <link rel="shortcut icon" href="" type="">
 
-  <title> Feane </title>
+  <title> IB Digital</title>
 
   <!-- bootstrap core css -->
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
@@ -31,12 +31,43 @@
   <link href="css/responsive.css" rel="stylesheet" />
 
 </head>
+<style>
+  .hidden {
+  display: none;
+}
+
+.popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  z-index: 1000;
+  width: 300px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.popup-content {
+  text-align: center;
+}
+
+.popup .close {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+  </style>
 
 <body>
 
   <div class="hero_area">
     <div class="bg-box">
-      <img src="{{assets('assets/carousell.png')}}" alt="">
+      <img src="assets/carousell copy.png" alt="">
     </div>
     <!-- header section strats -->
     <header class="header_section">
@@ -44,7 +75,7 @@
         <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="index.html">
             <span>
-              Feane
+              IB Digital
             </span>
           </a>
 
@@ -149,10 +180,10 @@
                 <div class="col-md-7 col-lg-6 ">
                   <div class="detail-box">
                     <h1>
-                      Fast Food Restaurant
+                      Solusi Digital Anda Dimulai di Sini
                     </h1>
                     <p>
-                      Doloremque, itaque aperiam facilis rerum, commodi, temporibus sapiente ad mollitia laborum quam quisquam esse error unde. Tempora ex doloremque, labore, sunt repellat dolore, iste magni quos nihil ducimus libero ipsam.
+                      Kami menyediakan layanan pembuatan website profesional untuk kebutuhan personal hingga bisnis Anda."
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
@@ -170,11 +201,10 @@
                 <div class="col-md-7 col-lg-6 ">
                   <div class="detail-box">
                     <h1>
-                      Fast Food Restaurant
+                      Solusi Digital Anda Dimulai di Sini
                     </h1>
                     <p>
-                      Doloremque, itaque aperiam facilis rerum, commodi, temporibus sapiente ad mollitia laborum quam quisquam esse error unde. Tempora ex doloremque, labore, sunt repellat dolore, iste magni quos nihil ducimus libero ipsam.
-                    </p>
+                      Kami menyediakan layanan pembuatan website profesional untuk kebutuhan personal hingga bisnis Anda."
                     <div class="btn-box">
                       <a href="" class="btn1">
                         Order Now
@@ -191,10 +221,10 @@
                 <div class="col-md-7 col-lg-6 ">
                   <div class="detail-box">
                     <h1>
-                      Fast Food Restaurant
+                      Solusi Digital Anda Dimulai di Sini
                     </h1>
                     <p>
-                      Doloremque, itaque aperiam facilis rerum, commodi, temporibus sapiente ad mollitia laborum quam quisquam esse error unde. Tempora ex doloremque, labore, sunt repellat dolore, iste magni quos nihil ducimus libero ipsam.
+                      Kami menyediakan layanan pembuatan website profesional untuk kebutuhan personal hingga bisnis Anda."
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
@@ -229,7 +259,7 @@
           <div class="col-md-6  ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/o1.jpg" alt="">
+                <img src="" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -298,7 +328,7 @@
           <div class="col-md-6  ">
             <div class="box ">
               <div class="img-box">
-                <img src="images/o2.jpg" alt="">
+                <img src="" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -372,6 +402,15 @@
   <!-- end offer section -->
 
   <!-- food section -->
+   <!-- Pop-up Modal -->
+<div id="popup" class="popup hidden">
+  <div class="popup-content">
+    <span class="close">&times;</span>
+    <h5 id="popup-title"></h5>
+    <p id="popup-description"></p>
+    <h6 id="popup-price"></h6>
+  </div>
+</div>
 
   <section class="food_section layout_padding-bottom">
     <div class="container">
@@ -383,10 +422,10 @@
 
       <ul class="filters_menu">
         <li class="active" data-filter="*">All</li>
-        <li data-filter=".burger">Burger</li>
-        <li data-filter=".pizza">Pizza</li>
-        <li data-filter=".pasta">Pasta</li>
-        <li data-filter=".fries">Fries</li>
+        <li data-filter=".burger">Blog</li>
+        <li data-filter=".pizza">Katalog</li>
+        <li data-filter=".pasta">Landing Page</li>
+        <li data-filter=".fries">Transaksi</li>
       </ul>
 
       <div class="filters-content">
@@ -395,7 +434,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="images/f1.png" alt="">
+                  <img src="" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -471,7 +510,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="images/f2.png" alt="">
+                  <img src="" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -547,7 +586,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="images/f3.png" alt="">
+                  <img src="" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -623,7 +662,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="images/f4.png" alt="">
+                  <img src="" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -699,7 +738,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="images/f5.png" alt="">
+                  <img src="" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -775,7 +814,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="images/f6.png" alt="">
+                  <img src="" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -851,7 +890,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="images/f7.png" alt="">
+                  <img src="" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -927,7 +966,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="images/f8.png" alt="">
+                  <img src="" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -1003,7 +1042,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="images/f9.png" alt="">
+                  <img src="" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -1095,21 +1134,18 @@
       <div class="row">
         <div class="col-md-6 ">
           <div class="img-box">
-            <img src="images/about-img.png" alt="">
+            <img src="  " alt="">
           </div>
         </div>
         <div class="col-md-6">
           <div class="detail-box">
             <div class="heading_container">
               <h2>
-                We Are Feane
+                We Are IB Digital
               </h2>
             </div>
             <p>
-              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-              in some form, by injected humour, or randomised words which don't look even slightly believable. If you
-              are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in
-              the middle of text. All
+              Selamat datang di IB Digital, solusi terbaik untuk kebutuhan digital Anda! Kami adalah tim profesional yang berdedikasi dalam menyediakan layanan pembuatan website modern, responsif, dan user-friendly. Dalam dunia yang semakin terhubung secara digital, memiliki website yang andal dan menarik adalah kunci kesuksesan bisnis Anda
             </p>
             <a href="">
               Read More
@@ -1244,25 +1280,36 @@
         <div class="col-md-4 footer-col">
           <div class="footer_contact">
             <h4>
-              Contact Us
+              Products
             </h4>
             <div class="contact_link_box">
-              <a href="">
-                <i class="fa fa-map-marker" aria-hidden="true"></i>
+              <a href="">               
                 <span>
-                  Location
+                  Machine Learning Solutions
                 </span>
               </a>
-              <a href="">
-                <i class="fa fa-phone" aria-hidden="true"></i>
+              <a href="">               
                 <span>
-                  Call +01 1234567890
+                  Real-time Chat Application
                 </span>
               </a>
-              <a href="">
-                <i class="fa fa-envelope" aria-hidden="true"></i>
+              <a href="">               
                 <span>
-                  demo@gmail.com
+                  Content Management System (CMS)
+                </span>
+              </a>
+              <a href="">               
+                <span>
+                  <a href="">               
+                    <span>
+                      Secure Web Server Setup
+                    </span>
+                  </a>
+                </span>
+              </a>
+              <a href="">               
+                <span>
+                  Analysis Tool
                 </span>
               </a>
             </div>
@@ -1271,11 +1318,26 @@
         <div class="col-md-4 footer-col">
           <div class="footer_detail">
             <a href="" class="footer-logo">
-              Feane
+              Services
             </a>
-            <p>
-              Necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with
-            </p>
+                <a href="">               
+                  <p>
+                    Web Development    
+                  </p>
+                                 
+                  <p>
+                     Digital Marketing 
+                  </p>
+                                    
+                  <p>
+                    SEO Optimization   
+                  </p>
+                                  
+                  <p>
+                    Maintenance & Support
+                  </p>
+                    
+                  
             <div class="footer_social">
               <a href="">
                 <i class="fa fa-facebook" aria-hidden="true"></i>
@@ -1283,36 +1345,37 @@
               <a href="">
                 <i class="fa fa-twitter" aria-hidden="true"></i>
               </a>
-              <a href="">
-                <i class="fa fa-linkedin" aria-hidden="true"></i>
-              </a>
+             
               <a href="">
                 <i class="fa fa-instagram" aria-hidden="true"></i>
-              </a>
-              <a href="">
-                <i class="fa fa-pinterest" aria-hidden="true"></i>
               </a>
             </div>
           </div>
         </div>
         <div class="col-md-4 footer-col">
           <h4>
-            Opening Hours
+            Company
           </h4>
           <p>
-            Everyday
+            Our pricing
           </p>
           <p>
-            10.00 Am -10.00 Pm
+           Services
           </p>
+          <p>
+            Lastes News
+          </p>
+          <p>
+            Everyday
+          </p>    
         </div>
       </div>
       <div class="footer-info">
         <p>
-          &copy; <span id="displayYear"></span> All Rights Reserved By
-          <a href="https://html.design/">Free Html Templates</a><br><br>
-          &copy; <span id="displayYear"></span> Distributed By
-          <a href="https://themewagon.com/" target="_blank">ThemeWagon</a>
+          &copy; <span id="displayYear"></span> 
+          <a href="https://html.design/"></a><br><br>
+          &copy; <span id="displayYear"></span>
+          <a href="https://themewagon.com/" target="_blank"></a>
         </p>
       </div>
     </div>
@@ -1341,5 +1404,37 @@
   <!-- End Google Map -->
 
 </body>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const imgBoxes = document.querySelectorAll('.img-box');
+    const popup = document.getElementById('popup');
+    const closeBtn = document.querySelector('.popup .close');
+    const popupTitle = document.getElementById('popup-title');
+    const popupDescription = document.getElementById('popup-description');
+    const popupPrice = document.getElementById('popup-price');
+
+    imgBoxes.forEach((imgBox) => {
+      imgBox.addEventListener('click', function () {
+        const detailBox = this.nextElementSibling;
+        popupTitle.textContent = detailBox.querySelector('h5').textContent;
+        popupDescription.textContent = detailBox.querySelector('p').textContent;
+        popupPrice.textContent = detailBox.querySelector('.options h6').textContent;
+
+        popup.classList.remove('hidden');
+      });
+    });
+
+    closeBtn.addEventListener('click', function () {
+      popup.classList.add('hidden');
+    });
+
+    window.addEventListener('click', function (e) {
+      if (e.target === popup) {
+        popup.classList.add('hidden');
+      }
+    });
+  });
+</script>
+
 
 </html>

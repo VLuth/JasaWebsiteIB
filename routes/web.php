@@ -17,6 +17,6 @@ Route::get('/', function () {
     return view('home');
 });
 Route::get('/template1', function () {
-    return view('template 1');
+    return view('service');
 });
 

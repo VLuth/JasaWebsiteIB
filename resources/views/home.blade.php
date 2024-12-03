@@ -149,10 +149,10 @@
                 <div class="col-md-7 col-lg-6 ">
                   <div class="detail-box">
                     <h1>
-                      IB Digital
+                      Solusi Digital Anda Dimulai di Sin
                     </h1>
                     <p>
-                      Doloremque, itaque aperiam facilis rerum, commodi, temporibus sapiente ad mollitia laborum quam quisquam esse error unde. Tempora ex doloremque, labore, sunt repellat dolore, iste magni quos nihil ducimus libero ipsam.
+                      Kami menyediakan layanan pembuatan website profesional untuk kebutuhan personal hingga bisnis Anda."
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
@@ -170,10 +170,10 @@
                 <div class="col-md-7 col-lg-6 ">
                   <div class="detail-box">
                     <h1>
-                      Fast Food Restaurant
+                      Solusi Digital Anda Dimulai di Sini
                     </h1>
                     <p>
-                      Doloremque, itaque aperiam facilis rerum, commodi, temporibus sapiente ad mollitia laborum quam quisquam esse error unde. Tempora ex doloremque, labore, sunt repellat dolore, iste magni quos nihil ducimus libero ipsam.
+                      Kami menyediakan layanan pembuatan website profesional untuk kebutuhan personal hingga bisnis Anda."
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
@@ -191,10 +191,10 @@
                 <div class="col-md-7 col-lg-6 ">
                   <div class="detail-box">
                     <h1>
-                      Fast Food Restaurant
+                      Solusi Digital Anda Dimulai di Sini
                     </h1>
                     <p>
-                      Doloremque, itaque aperiam facilis rerum, commodi, temporibus sapiente ad mollitia laborum quam quisquam esse error unde. Tempora ex doloremque, labore, sunt repellat dolore, iste magni quos nihil ducimus libero ipsam.
+                      Kami menyediakan layanan pembuatan website profesional untuk kebutuhan personal hingga bisnis Anda."
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
@@ -1102,7 +1102,7 @@
           <div class="detail-box">
             <div class="heading_container">
               <h2>
-                We Are Feane
+                We Are IB Digital
               </h2>
             </div>
             <p>
@@ -1244,25 +1244,25 @@
         <div class="col-md-4 footer-col">
           <div class="footer_contact">
             <h4>
-              Contact Us
+              Products
             </h4>
             <div class="contact_link_box">
               <a href="">
                 <i class="fa fa-map-marker" aria-hidden="true"></i>
                 <span>
-                  Location
+                  Machine Learning Solutions
                 </span>
               </a>
               <a href="">
                 <i class="fa fa-phone" aria-hidden="true"></i>
                 <span>
-                  Call +01 1234567890
+                  Real-time Chat Application
                 </span>
               </a>
               <a href="">
                 <i class="fa fa-envelope" aria-hidden="true"></i>
                 <span>
-                  demo@gmail.com
+                  Content Management System (CMS)
                 </span>
               </a>
             </div>
