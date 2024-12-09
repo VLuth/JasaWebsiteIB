@@ -149,7 +149,7 @@
                 <div class="col-md-7 col-lg-6 ">
                   <div class="detail-box">
                     <h1>
-                      Solusi Digital Anda Dimulai di Sin
+                      Solusi Digital Anda Dimulai di Sini
                     </h1>
                     <p>
                       Kami menyediakan layanan pembuatan website profesional untuk kebutuhan personal hingga bisnis Anda."
@@ -229,7 +229,7 @@
           <div class="col-md-6  ">
             <div class="box ">
               <div class="img-box">
-                <img src="{{asset('feane/images/o1.jpg')}}" alt="">
+                <img src="{{asset('es/o1.jpg')}}" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -298,7 +298,7 @@
           <div class="col-md-6  ">
             <div class="box ">
               <div class="img-box">
-                <img src="{{asset('feane/images/o2.jpg')}}" alt="">
+                <img src="{{asset('es/o2.jpg')}}" alt="">
               </div>
               <div class="detail-box">
                 <h5>
@@ -370,23 +370,47 @@
   </section>
 
   <!-- end offer section -->
+  <section class="about_section layout_padding">
+    <div class="container  ">
 
+      <div class="row">
+        </div>
+        <div class="col-md-6">
+          <div class="detail-box">
+            <div class="heading_container" text-align: center; >
+              <h2>
+                Kenapa harus IB Digital?
+              </h2>
+            </div>
+            <p>
+              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
+              in some form, by injected humour, or randomised words which don't look even slightly believable. If you
+              are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in
+              the middle of text. All
+            </p>
+            <a href="">
+              Read More
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
   <!-- food section -->
 
   <section class="food_section layout_padding-bottom">
     <div class="container">
       <div class="heading_container heading_center">
         <h2>
-          Our Menu
+          template
         </h2>
       </div>
-
       <ul class="filters_menu">
         <li class="active" data-filter="*">All</li>
-        <li data-filter=".burger">Burger</li>
-        <li data-filter=".pizza">Pizza</li>
-        <li data-filter=".pasta">Pasta</li>
-        <li data-filter=".fries">Fries</li>
+        <li data-filter=".burger">Katalog</li>
+        <li data-filter=".pizza">Blog</li>
+        <li data-filter=".pasta">Landing Page</li>
+        <li data-filter=".fries">Transaksi</li>
       </ul>
 
       <div class="filters-content">
@@ -395,11 +419,11 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{asset('feane/images/f1.png')}}" alt="">
+                  <img src="{{asset('feane/mellow/images/template1.png')}}" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
-                    Delicious Pizza
+                    Template Website Hotel
                   </h5>
                   <p>
                     Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
@@ -408,7 +432,7 @@
                     <h6>
                       $20
                     </h6>
-                    <a href="">
+                    <a href="{{asset('feane/mellow/index.html ')}}">
                       <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029" style="enable-background:new 0 0 456.029 456.029;" xml:space="preserve">
                         <g>
                           <g>
@@ -471,11 +495,11 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{asset('feane/images/f2.png')}}" ult="">
+                  <img src=""ult="">
                 </div>
                 <div class="detail-box">
                   <h5>
-                    Delicious Burger
+                    Template website tokoonline
                   </h5>
                   <p>
                     Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
@@ -547,11 +571,11 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{asset('feane/images/f3.png')}}" ult="">
+                  <img src="{{asset('es/f3.png')}}" ult="">
                 </div>
                 <div class="detail-box">
                   <h5>
-                    Delicious Pizza
+                    Template  
                   </h5>
                   <p>
                     Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit, magnam voluptatem repellendus sed eaque
@@ -623,7 +647,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{asset('feane/images/f4.png')}}" ult="">
+                  <img src="{{asset('es/f4.png')}}" ult="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -699,7 +723,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{asset('feane/images/f5.png')}}" alt="">
+                  <img src="{{asset('es/f5.png')}}" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -775,7 +799,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{asset('feane/images/f6.png')}}" alt="">
+                  <img src="{{asset('es/f6.png')}}" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -851,7 +875,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{asset('feane/images/f7.png')}}" alt="">
+                  <img src="{{asset('es/f7.png')}}" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -927,7 +951,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{asset('feane/images/f8.png"')}} alt="">
+                  <img src="{{asset('es/f8.png"')}} alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -1003,7 +1027,7 @@
             <div class="box">
               <div>
                 <div class="img-box">
-                  <img src="{{asset('feane/images/f9.png')}}" alt="">
+                  <img src="{{asset('es/f9.png')}}" alt="">
                 </div>
                 <div class="detail-box">
                   <h5>
@@ -1095,7 +1119,7 @@
       <div class="row">
         <div class="col-md-6 ">
           <div class="img-box">
-            <img src="{{asset('feane/images/about-img.png')}}" alt="">
+            <img src="{{asset('feane/iout-img.png')}}" alt="">
           </div>
         </div>
         <div class="col-md-6">
@@ -1234,6 +1258,15 @@
       </div>
     </div>
   </section>
+  @extends('template')
+
+@section('mellow', 'index.html')
+
+@section('content')
+    <h1>Welcome to My Website</h1>
+    <!-- Add your content here -->
+@endsection
+
 
   <!-- end client section -->
 
@@ -1339,7 +1372,8 @@
   <script src="https://maps.googleapis.com//api/maps"s?key=AIzaSyCh39n5U-4IoWpsVGUHWdqB6puEkhRLdmI&callbackmyMap>
   </script>
   <!-- End Google Map -->
+  <link rel="stylesheet" href="{{ asset('mellow/path/to/css/file.css') }}">
+<script src="{{ asset('mellow/path/to/js/file.js') }}"></script>
 
-</body>
 
 </html>What are you doing, the person I'm thinking about?
